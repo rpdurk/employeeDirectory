@@ -28,7 +28,7 @@ function DataBody({ users }) {
               <td data-th="Name" className="name-cell align-middle">
                 {name.first} {name.last}
               </td>
-              <td data-th="Phone" className="align-middle">
+              <td data-th="Office Phone" className="align-middle">
                 {phone}
               </td>
               <td data-th="Email" className="align-middle">
