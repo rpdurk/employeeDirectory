@@ -1,6 +1,6 @@
 {
   "name": "employeeDirectory",
-  "homepage": "https://rpdurk.github.io/employeeDirectory/",
+  "homepage": "https://rpdurk.github.io/employeeDirectory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
